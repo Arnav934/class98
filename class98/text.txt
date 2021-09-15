@@ -1,0 +1,4 @@
+hello
+how are you
+this is a text
+this is a dummy text
